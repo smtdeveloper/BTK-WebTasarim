@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#kutular{
+    width: 400px;
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    /*
+    background-image: url(images/bayrak.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    */
+}
+
+#kutu1{
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style:solid;
+    background-color: red;
+    float: left;
+    
+}
+
+#kutu2{
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style:solid;
+    background-color: green;
+    float: left;
+    
+}
+
+#kutu3{
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style:solid;
+    background-color: blue;
+    float: left;
+    
+}
+
+.kutu{
+margin-top: 40px;
+margin-left: 20px;
+border-radius: 15px;
+background-image: url(images/bayrak.jpg);
+background-repeat: no-repeat;
+background-size: 160px;
+}
